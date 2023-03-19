@@ -13,6 +13,9 @@ date-meta: 20 March 2023
 - [Member 3]()
 
 ## 📝 Project Description
+This is the first project for our lab.
+
+
 
 ## 📊 Data
 
